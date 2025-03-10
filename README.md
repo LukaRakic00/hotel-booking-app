@@ -7,7 +7,7 @@ Welcome to the **Hotel Booking App** repository! 🎉 This application allows us
 - 🚀 **[Features](#features)** 
 - 🧑‍💻 **[Technologies](#technologies)**  
 - 📸 **Screenshots**  
-- 🤝 **[Contributing](#contributing)** 
+- 🤝 **[Contributions](#Contributions)** 
 
 
 ##  **🛠️Overview**  
