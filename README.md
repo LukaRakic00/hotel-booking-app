@@ -1,6 +1,6 @@
 ## **🏨 Hotel Booking App – Book Rooms with Ease!**
 
-Welcome to the **Hotel Booking App** repository! 🎉 This application allows users to easily search for hotels, view available rooms, and manage their reservations.
+Welcome to the **Hotel Booking App** repository! This application allows users to easily 🔎 search for hotels, 🏨 view available rooms, and 📅 manage their reservations. Enjoy a seamless and secure booking experience! 🚀💼  
 
 ## **📌 Table of Contents**  
 -  🛠️ **[Overview](#overview)**
