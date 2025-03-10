@@ -3,11 +3,12 @@
 Welcome to the **Hotel Booking App** repository! 🎉 This application allows users to easily search for hotels, view available rooms, and manage their reservations.
 
 ## **📌 Table of Contents**  
--  **[🛠️Overview](#🛠️overview)**
+-  🛠️ **[Overview](#🛠overview)**
 - 🚀 **[Features](#features)** 
 - 🧑‍💻 **[Technologies](#technologies)**  
 - 📸 **Screenshots**  
-- 🤝 **Contributions**  
+- 🤝 **[Contributing](#contributing)** 
+
 
 ##  **🛠️Overview**  
 The **Hotel Booking App** is a full-stack web application that enables users to search for hotels, view available rooms, and make reservations. The app leverages modern technologies to ensure security, scalability, and an intuitive user experience.
