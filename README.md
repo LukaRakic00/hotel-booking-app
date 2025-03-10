@@ -32,8 +32,8 @@ The **Hotel Booking App** is a full-stack web application that enables users to 
 - ⚛️ **React** – Modern frontend framework for a dynamic UI.  
 
 ## **Screenshots**  
-![Hotel App Screenshot](HotelApp_IMG1.webp)
-![Hotel App Screenshot](HotelApp_IMG2.webp)
+![Hotel App Screenshot](HotelApp_IMG1.jpg)
+![Hotel App Screenshot](HotelApp_IMG2.jpg)
 
 ## **Contributions**  
 🤝 Feel free to contribute! Fork the repository, create a pull request, and let's improve this app together.   
