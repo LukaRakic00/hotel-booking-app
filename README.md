@@ -6,11 +6,11 @@ Welcome to the **Hotel Booking App** repository! 🎉 This application allows us
 -  🛠️ **[Overview](#🛠overview)**
 - 🚀 **[Features](#features)** 
 - 🧑‍💻 **[Technologies](#technologies)**  
-- 📸 **Screenshots**  
+- 📸 **[Screenshots](#Screenshots)**  
 - 🤝 **[Contributions](#Contributions)** 
 
 
-##  **🛠️Overview**  
+##  **🛠Overview**  
 The **Hotel Booking App** is a full-stack web application that enables users to search for hotels, view available rooms, and make reservations. The app leverages modern technologies to ensure security, scalability, and an intuitive user experience.
 
 ## 🚀 **Features**  
@@ -20,7 +20,7 @@ The **Hotel Booking App** is a full-stack web application that enables users to 
 ✅ **Room Booking** – Reserve rooms and manage your reservations.  
 ✅ **Admin Panel** – Manage hotels, rooms, and reservations.  
 
-## 🧑‍💻 **Technologies Used**  
+## **Technologies**  
 
 ### **Backend:**  
 - ☕ **Spring Boot** – Main backend framework.  
@@ -31,8 +31,8 @@ The **Hotel Booking App** is a full-stack web application that enables users to 
 ### **Frontend:**  
 - ⚛️ **React** – Modern frontend framework for a dynamic UI.  
 
-## **📸 Screenshots**  
+## **Screenshots**  
 (Add screenshots here)
 
-## 🤝 **Contributions**  
-Feel free to contribute! Fork the repository, create a pull request, and let's improve this app together. 🚀  
+## **Contributions**  
+🤝 Feel free to contribute! Fork the repository, create a pull request, and let's improve this app together.   
